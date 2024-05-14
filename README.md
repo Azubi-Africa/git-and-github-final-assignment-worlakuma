@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  - Mortgage_calculator          |  - This calculator generates loarn amortization schedule            | https://       |https://github.com/worlakuma/Mortgage_Calculator.git
-| 2 |  - Tip_Calculator          |  - Calculates tips based on invoice value            | https://       |https://github.com/worlakuma/Tip_Calculator.git
-| 3 |  - Sales_Planning_Dynamics            |  - Tracks and adjusts production based on sales and stock levels            | https://       |https://github.com/worlakuma/Sales_Planning_Dynamics.git
+| 1 |  - Mortgage_calculator          |  - This calculator generates loarn amortization schedule            | https://       https://github.com/worlakuma/Mortgage_Calculator.git
+| 2 |  - Tip_Calculator          |  - Calculates tips based on invoice value            | https://       https://github.com/worlakuma/Tip_Calculator.git
+| 3 |  - Sales_Planning_Dynamics            |  - Tracks and adjusts production based on sales and stock levels            | https://       https://github.com/worlakuma/Sales_Planning_Dynamics.git
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
